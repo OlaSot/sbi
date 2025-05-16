@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "title": "STATOM - Moderne Modulhäuser",
+    "description": "Hochwertige Modulhäuser für komfortables Wohnen. Wir entwerfen, produzieren und installieren moderne, energieeffiziente Wohnlösungen."
+  },
+  "hero": {
+    "imageAlt": "Modernes Öko-Haus im Wald",
+    "title": {
+      "part1": "Prestige, Komfort und Harmonie mit der Natur — alles in einem",
+      "highlight": "Öko-Haus"
+    },
+    "description": "Wählen Sie ein Zuhause, das Ihre Werte widerspiegelt — modern, nachhaltig und gebaut für einen bewussten Lebensstil, wo Luxus auf Verantwortung trifft.",
+    "cta": "Mehr erfahren"
+  },
+  "catalog": {
+    "heading": {
+      "part1": "Wählen Sie Ihr",
+      "highlight": "ideales",
+      "part2": " Modulhaus"
+    },
+    "categories": {
+      "capsule": "Kapselhaus",
+      "apple": "Apple Cabin",
+      "natural": "Naturhaus",
+      "dome": "Kuppelhaus",
+      "double": "Modell Double"
+    },
+    "models": {
+      "model1": {
+        "title": "Volferda Kapselhaus Modell E6",
+        "dimensions": "8,5m x 3,2m x 3,2m",
+        "area": "27,2 m",
+        "beds": "1 oder 2",
+        "bath": "1"
+      },
+      "model2": {
+        "title": "Volferda Kapselhaus Modell E6",
+        "dimensions": "8,5m x 3,2m x 3,2m",
+        "area": "27,2 m",
+        "beds": "1 oder 2",
+        "bath": "1"
+      },
+      "model3": {
+        "title": "Volferda Kapselhaus Modell E6",
+        "dimensions": "8,5m x 3,2m x 3,2m",
+        "area": "27,2 m",
+        "beds": "1 oder 2",
+        "bath": "1"
+      }
+    },
+    "labels": {
+      "area": "Fläche",
+      "beds": "Betten",
+      "bath": "Bad"
+    },
+    "learnMore": "Mehr erfahren",
+    "catalogBtn": "Katalogseite"
+  },
+  "info": {
+    "heading": {
+      "part1": "Modulhaus – minimale Zeit, ",
+      "highlight": "maximaler",
+      "part2": " Komfort"
+    },
+    "button": "Anfrage senden",
+    "cards": {
+      "homesSold": {
+        "title": "Verkaufte Häuser",
+        "value": "10.000+",
+        "desc": "Tausende Familien vertrauen auf Komfort und Qualität unserer Lösungen."
+      },
+      "turnkey": {
+        "title": "Schlüsselfertige Aufträge",
+        "value": "90%",
+        "desc": "Wir kümmern uns um alles, vom Design bis zum komplett fertigen Haus."
+      },
+      "installments": {
+        "title": "Aufschlag bei Ratenzahlung",
+        "value": "0%",
+        "desc": "Flexible Finanzierungsoptionen für einfachen Hauserwerb."
+      },
+      "experience": {
+        "title": "Jahre Erfahrung",
+        "value": "10+",
+        "desc": "Wir bauen Modulhäuser, die die Zeit und das Vertrauen der Kunden überdauern."
+      },
+      "moveIn": {
+        "title": "Tage bis zum Einzug",
+        "value": "30-60",
+        "desc": "Minimale Bauzeit für schnellen und problemlosen Umzug."
+      },
+      "eco": {
+        "title": "Umweltfreundliche Materialien",
+        "value": "100%",
+        "desc": "Wir verwenden nur zertifizierte, sichere und langlebige Materialien."
+      }
+    }
+  },
+  "choice": {
+    "title": {
+      "part1": "Fertige ",
+      "highlight": "modulare",
+      "part2": " Hausprojekte"
+    },
+    "description": "Entdecken Sie eine Auswahl bewährter Lösungen für komfortables Wohnen. Unser Katalog enthält moderne Modulhäuser, die für unterschiedliche Bedürfnisse und Lebensstile konzipiert sind. Wählen Sie Ihr Haus — wir kümmern uns um den Rest.",
+    "featured": {
+      "title": "Volferda Kapselhaus Modell E6",
+      "dimensions": "8,5m x 3,2m x 3,2m",
+      "area": "27,2 m",
+      "beds": "1 oder 2",
+      "bath": "1"
+    },
+    "labels": {
+      "lxwxh": "LxBxH:",
+      "area": "Fläche:",
+      "beds": "Betten:",
+      "bath": "Bad:"
+    },
+    "button": "Anfrage senden"
+  },
+  "display": {
+    "title": {
+      "part1": "Unsere Modulhäuser sind Ihr neuer ",
+      "highlight": "Komfort"
+    },
+    "description": "Vergessen Sie lange Bauzeiten und endlose Mühen. Unsere Modulhäuser werden schnell, effizient und mit hochwertigen Materialien gebaut, die Langlebigkeit und modernes Design garantieren. Genießen Sie einen gemütlichen, stilvollen Raum, der sich Ihren Bedürfnissen anpasst und dabei Zeit und Aufwand spart. Ziehen Sie schneller ein und leben Sie besser in einem Haus, das für Ihren Komfort konzipiert wurde."
+  },
+  "imageSection": {
+    "title": {
+      "part1": "Leben Sie im Einklang mit der ",
+      "highlight": "Natur"
+    },
+    "description": "Unsere Ökohäuser verbinden moderne Technologie mit Umweltschutz. Sie sind energieeffizient, komfortabel und aus nachhaltigen Materialien gebaut. Sie reduzieren Ihren CO2-Fußabdruck, ohne auf Komfort zu verzichten. Investieren Sie in die Zukunft — wählen Sie ein Haus, das für Sie und den Planeten arbeitet.",
+    "button": "Anfrage senden"
+  },
+  "showcase": {
+    "title": {
+      "part1": "Unser ",
+      "highlight": "neues",
+      "part2": " Zuhause – ihre echte Erfahrung"
+    },
+    "button": "Werden Sie Teil unserer Community",
+    "alt": "Kundenbewertung"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "items": [
+      {
+        "q": "Wie lange dauert der Bau eines Modulhauses?",
+        "a": "Die Bauzeit für ein Modulhaus beträgt in der Regel 30-60 Tage, abhängig von der Größe und Komplexität des Projekts."
+      },
+      {
+        "q": "Wie lange ist die Garantie auf das Haus?",
+        "a": "Wir bieten eine umfassende Garantie von 10 Jahren auf die Struktur und 2 Jahren auf alle installierten Systeme."
+      },
+      {
+        "q": "Welche Materialien werden für den Bau verwendet?",
+        "a": "Wir verwenden ausschließlich hochwertige, zertifizierte und umweltfreundliche Materialien, die höchsten Qualitätsstandards entsprechen."
+      },
+      {
+        "q": "Benötigt ein Modulhaus ein spezielles Fundament?",
+        "a": "Ja, Modulhäuser benötigen ein speziell angepasstes Fundament, das wir nach einer gründlichen Standortanalyse planen und erstellen."
+      },
+      {
+        "q": "Kann der Grundriss angepasst werden?",
+        "a": "Ja, unsere Modulhäuser bieten flexible Grundrissoptionen, die an Ihre individuellen Bedürfnisse angepasst werden können."
+      },
+      {
+        "q": "Kann das Haus nach der Installation umgezogen werden?",
+        "a": "Ja, unsere Modulhäuser sind so konzipiert, dass sie bei Bedarf an einen neuen Standort verlegt werden können."
+      },
+      {
+        "q": "Welche Zahlungsoptionen stehen zur Verfügung?",
+        "a": "Wir bieten verschiedene Zahlungsoptionen an, einschließlich Ratenzahlung ohne Aufschlag und maßgeschneiderte Finanzierungslösungen."
+      },
+      {
+        "q": "Welche Versorgungseinrichtungen können an das Haus angeschlossen werden?",
+        "a": "Unsere Häuser sind für alle modernen Versorgungseinrichtungen ausgelegt: Strom, Wasser, Abwasser, Internet und Smart-Home-Systeme."
+      },
+      {
+        "q": "Kann ein Modulhaus überall aufgestellt werden?",
+        "a": "Grundsätzlich ja, aber es müssen lokale Bauvorschriften und Grundstücksbedingungen berücksichtigt werden. Wir führen vorab eine Standortanalyse durch."
+      },
+      {
+        "q": "Bieten Sie Installations- und Anschlussdienste an?",
+        "a": "Ja, wir bieten einen kompletten Service von der Installation bis zum Anschluss aller Versorgungseinrichtungen."
+      }
+    ],
+    "q1": "Wie lange dauert der Bau eines Modulhauses?",
+    "a1": "Die Bauzeit für ein Modulhaus beträgt in der Regel 30-60 Tage, abhängig von der Größe und Komplexität des Projekts.",
+    "q2": "Wie lange ist die Garantie auf das Haus?",
+    "a2": "Wir bieten eine umfassende Garantie von 10 Jahren auf die Struktur und 2 Jahren auf alle installierten Systeme.",
+    "q3": "Welche Materialien werden für den Bau verwendet?",
+    "a3": "Wir verwenden ausschließlich hochwertige, zertifizierte und umweltfreundliche Materialien, die höchsten Qualitätsstandards entsprechen.",
+    "q4": "Benötigt ein Modulhaus ein spezielles Fundament?",
+    "a4": "Ja, Modulhäuser benötigen ein speziell angepasstes Fundament, das wir nach einer gründlichen Standortanalyse planen und erstellen.",
+    "q5": "Kann der Grundriss angepasst werden?",
+    "a5": "Ja, unsere Modulhäuser bieten flexible Grundrissoptionen, die an Ihre individuellen Bedürfnisse angepasst werden können.",
+    "q6": "Kann das Haus nach der Installation umgezogen werden?",
+    "a6": "Ja, unsere Modulhäuser sind so konzipiert, dass sie bei Bedarf an einen neuen Standort verlegt werden können.",
+    "q7": "Welche Zahlungsoptionen stehen zur Verfügung?",
+    "a7": "Wir bieten verschiedene Zahlungsoptionen an, einschließlich Ratenzahlung ohne Aufschlag und maßgeschneiderte Finanzierungslösungen.",
+    "q8": "Welche Versorgungseinrichtungen können an das Haus angeschlossen werden?",
+    "a8": "Unsere Häuser sind für alle modernen Versorgungseinrichtungen ausgelegt: Strom, Wasser, Abwasser, Internet und Smart-Home-Systeme.",
+    "q9": "Kann ein Modulhaus überall aufgestellt werden?",
+    "a9": "Grundsätzlich ja, aber es müssen lokale Bauvorschriften und Grundstücksbedingungen berücksichtigt werden. Wir führen vorab eine Standortanalyse durch.",
+    "q10": "Bieten Sie Installations- und Anschlussdienste an?",
+    "a10": "Ja, wir bieten einen kompletten Service von der Installation bis zum Anschluss aller Versorgungseinrichtungen."
+  },
+  "cta": {
+    "title": "Ihr eigenes Haus in nur wenigen Wochen – Einfach & Erschwinglich!",
+    "description": "Wählen Sie noch heute Ihr perfektes Zuhause! Senden Sie eine Anfrage und erhalten Sie eine kostenlose Beratung!",
+    "namePlaceholder": "Name",
+    "phonePlaceholder": "Telefonnummer",
+    "messagePlaceholder": "Nachricht (optional)",
+    "button": "Anfrage senden",
+    "sending": "Wird gesendet...",
+    "successMessage": "Anfrage erfolgreich gesendet!"
+  },
+  "footer": {
+    "descriptionShort": "Innovative Modulhäuser für nachhaltiges und komfortables Wohnen.",
+    "descriptionFull": "Wir sind Ihr Partner für moderne, nachhaltige Wohnlösungen. Unsere Modulhäuser vereinen innovative Technologie mit umweltbewusstem Design für ein zukunftsorientiertes Wohnerlebnis.",
+    "createdBy": "Erstellt von Ocean Script",
+    "phone": "Telefonnummer",
+    "email": "E-Mail",
+    "links": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Leistungen",
+      "pricing": "Preise",
+      "blog": "Blog",
+      "faq": "FAQ",
+      "privacy": "Datenschutz",
+      "gallery": "Galerie"
+    }
+  },
+  "catalogPage": {
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Katalog"
+    },
+    "title": "Katalog",
+    "description": "Wählen Sie aus unserer Kollektion moderner Modulhäuser, die zur schnellen Umsetzung bereit sind.",
+    "categories": {
+      "capsule": "Kapselhaus",
+      "apple": "Apple Cabin",
+      "natural": "Naturhaus",
+      "dome": "Kuppelhaus",
+      "double": "Modell Double",
+      "eco": "Ökohaus"
+    },
+    "bestSellers": {
+      "title": "Besten Verkäufer"
+    },
+    "button": "Modelle ansehen"
+  },
+  "projectCases": {
+    "title": "Projektfälle",
+    "readMore": "Mehr lesen",
+    "requestButton": "Anfrage senden",
+    "modalDescription": "Lorem ipsum dolor sit amet consectetur. Lectus at nibh dolor vestibulum ultrices. Vel dis morbi lectus pharetra blandit morbi eget. Justo magna diam ultrices iaculis sed vitae nulla et.",
+    "item1": {
+      "title": "Minimalistisches Modulhaus im Wald",
+      "description": "Ein kompaktes, energieeffizientes Modulhaus für ein Leben abseits des Stromnetzes, umgeben von Natur."
+    },
+    "item2": {
+      "title": "Luxuriöse Modulvilla mit Dachterrasse",
+      "description": "Geräumige Gestaltung mit offenem Grundriss, hochwertiger Ausstattung und einer atemberaubenden Dachterrasse."
+    },
+    "item3": {
+      "title": "Mobiles Tiny House auf Rädern",
+      "description": "Perfekt für diejenigen, die einfach leben und frei reisen möchten – Mobilität trifft auf Stil."
+    }
+  },
+  "contacts": {
+    "title": "Kontakte",
+    "description": "Kontaktieren Sie uns für eine Beratung oder um Ihr Modulhaus zu bestellen. Wir sind immer für Sie da!",
+    "address": "Adresse:",
+    "businessHours": "Öffnungszeiten:",
+    "phone": "Telefon:",
+    "fax": "Fax:",
+    "email": "E-Mail:",
+    "about1": "Die Wurzeln unseres Unternehmens reichen bis ins Jahr 1993 zurück. Zu dieser Zeit begann das neu gegründete Unternehmen auf dem sich rasch entwickelnden Baumarkt seine Tätigkeit im Bereich Heiztechnik, Sanitär, Wasserversorgung und Abwasserentsorgung. Es war eines der ersten Unternehmen in Litauen, das moderne Heizgeräte von Junkers, Viessman und Buderus einführte. Im Laufe seiner Entwicklung baute und renovierte das Unternehmen Häuser, installierte interne und externe Abwassersysteme und begann schließlich mit der Erbringung von Innenausbaudienstleistungen. Seit 2016 setzt das wiederbelebte Unternehmen seine Tätigkeit in Hamburg, Deutschland, fort.\nWir beschäftigen uns intensiv mit der Anwendung moderner, fortschrittlicher und ökologischer Materialien und Technologien im Bauwesen. Als Subunternehmer beteiligen wir uns am Bau von schnell errichteten Block- und Holzhäusern. Für den Innenausbau sowie für die Ausstattung von Küchen und Badezimmern verwenden wir moderne und natürliche Materialien aus Stein, Quarz und Keramik.",
+    "about2": "Indem Sie sich für uns entscheiden, erhalten Sie nicht nur ein Haus, sondern einen hochwertigen, modernen und gemütlichen Wohnraum. Wir glauben, dass die Zukunft den Modulhäusern gehört, und wir tun alles, um diese Zukunft heute Wirklichkeit werden zu lassen!",
+    "produktionsLager": "Produktionslager:"
+  },
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "contacts": "Kontakte",
+    "products": "Produkte",
+    "contactUs": "Kontaktieren Sie uns",
+    "leaveRequest": "Anfrage senden",
+    "catalog": "Katalog",
+    "career": "Karriere",
+    "languages": {
+      "english": "Englisch",
+      "deutsch": "Deutsch"
+    },
+    "links": {
+      "home": "Startseite",
+      "about": "Über uns",
+      "services": "Dienstleistungen",
+      "privacy": "Datenschutz",
+      "contacts": "Kontakte",
+      "catalog": "Katalog",
+      "career": "Karriere"
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "subtitle": "Gemeinsam die Zukunft bauen: Hochwertige Modulhäuser für komfortables Wohnen",
+    "paragraphs": {
+      "p1": "Die Wurzeln unseres Unternehmens reichen bis ins Jahr 1993 zurück. Zu dieser Zeit begann das neu gegründete Unternehmen auf dem sich rasch entwickelnden Baumarkt seine Tätigkeit im Bereich Heiztechnik, Sanitär, Wasserversorgung und Abwasserentsorgung. Es war eines der ersten Unternehmen in Litauen, das moderne Heizgeräte von Junkers, Viessman und Buderus einführte. Im Laufe seiner Entwicklung baute und renovierte das Unternehmen Häuser, installierte interne und externe Abwassersysteme und begann schließlich mit der Erbringung von Innenausbaudienstleistungen. Seit 2016 setzt das wiederbelebte Unternehmen seine Tätigkeit in Hamburg, Deutschland, fort. Die Wurzeln unseres Unternehmens reichen bis ins Jahr 1993 zurück.  Damals, im sich schnell entwickelnden Baumarkt, nahm das neu gegründete Unternehmen seine Aktivitäten im Bereich Heiztechnik, Sanitär, Wasserversorgung und Kanalisation auf.  Es war eines der ersten in Litauen, das fortschrittliche Heizgeräte von Junkers, Viessman und Buderus vorstellte.  Im Laufe seiner Entwicklung baute und reparierte das Unternehmen Häuser, installierte Abwassersysteme im Innen- und Außenbereich und begann im Laufe der Zeit mit der Erbringung von Innendekorationsdienstleistungen.  Derzeit setzt das neugeborene Unternehmen seine Aktivitäten seit 2016 in Hamburg fort.",
+      "p2": "Wir beschäftigen uns mit der Anwendung moderner, fortschrittlicher und ökologischer Materialien und Technologien im Baubereich.  Als Subunternehmer beteiligen wir uns am Bau von vorgefertigten Block- und Holzhäusern.  Für die Inneneinrichtung sowie für die Küchen- und Badausstattung verwenden wir moderne und natürliche Materialien aus Stein, Quarz und Keramik.",
+      "p3": ""
+    },
+    "paragraphsBottom": {
+      "p1": "Wir führen regelmäßig Zufriedenheitsumfragen durch und passen unsere Angebote entsprechend an. Das Feedback unserer Kunden beeinflusst direkt die kontinuierliche Verbesserung unserer Produkte und Dienstleistungen.",
+      "p2": "Unsere engagierten Teams arbeiten Hand in Hand, um einen reibungslosen Prozess von der ersten Beratung bis zur Schlüsselübergabe zu gewährleisten. Jeder Mitarbeiter teilt unsere Vision von hochwertigen und nachhaltigen Wohnlösungen.",
+      "p3": "Die Kombination aus Handwerkskunst, innovativen Technologien und Kundenorientierung macht uns zum Marktführer bei modularen Wohnlösungen. Wir sind stolz auf das, was wir erreicht haben, und freuen uns darauf, Ihnen bei der Verwirklichung Ihres Wohnprojekts zu helfen."
+    },
+    "topSection": {
+      "title": {
+        "part1": "Seit über",
+        "highlight": "10 Jahren"
+      }
+    },
+    "bottomSection": {
+      "title": {
+        "part1": "Unsere",
+        "highlight": "höchste Priorität",
+        "part2": "ist die Qualität und der Komfort unserer Kunden."
+      }
+    }
+  },
+  "common": {
+    "sectionImage": "Abschnitts-Bild"
+  },
+  "career": {
+    "breadcrumb": {
+      "home": "Startseite",
+      "current": "Karriere"
+    },
+    "title": "Karriere",
+    "description": "Werden Sie Teil des Teams, das die Zukunft des Wohnens gestaltet — teilen Sie Ihre Daten mit und werden Sie Teil unserer Mission!",
+    "form": {
+      "name": "Name",
+      "surname": "Nachname",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "country": "Land",
+      "city": "Stadt",
+      "position": "Gewünschte Position",
+      "experience": "Berufserfahrung",
+      "resume": "Lebenslauf hochladen",
+      "coverLetter": "Anschreiben",
+      "placeholders": {
+        "name": "Geben Sie Ihren Namen ein",
+        "surname": "Geben Sie Ihren Nachnamen ein",
+        "email": "Geben Sie Ihre E-Mail ein",
+        "phone": "Geben Sie Ihre Telefonnummer ein",
+        "country": "Geben Sie Ihr Land ein",
+        "city": "Geben Sie Ihre Stadt ein",
+        "position": "Geben Sie Ihre gewünschte Position ein",
+        "experience": "Beschreiben Sie Ihre Erfahrung",
+        "coverLetter": "Schreiben Sie Ihr Anschreiben",
+        "noFile": "Keine Datei ausgewählt (max. 1 MB)"
+      },
+      "uploadFile": "Datei hochladen",
+      "sendApplication": "Bewerbung absenden",
+      "sending": "Wird gesendet...",
+      "successMessage": "Ihre Bewerbung wurde erfolgreich eingereicht!"
+    }
+  },
+  "errors": {
+    "phoneRequired": "Telefonnummer ist erforderlich",
+    "fileTypeInvalid": "Nur PDF-, DOCX- oder DOC-Dateien sind zulässig",
+    "fileSizeExceeded": "Dateigröße überschreitet das Limit (10MB)"
+  }
+}

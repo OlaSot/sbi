@@ -1,0 +1,381 @@
+{
+  "metadata": {
+    "title": "STATOM - Modern Modular Homes",
+    "description": "High-quality modular homes for comfortable living. We design, produce and install modern, energy-efficient housing solutions."
+  },
+  "hero": {
+    "imageAlt": "Modern eco-home in the forest",
+    "title": {
+      "part1": "Prestige, comfort, and harmony with nature — all in one",
+      "highlight": "eco-home"
+    },
+    "description": "Choose a home that reflects your values — modern, sustainable, and built for a conscious lifestyle, where luxury meets responsibility.",
+    "cta": "Learn More"
+  },
+  "catalog": {
+    "heading": {
+      "part1": "Choose your",
+      "highlight": "ideal",
+      "part2": " modular home"
+    },
+    "categories": {
+      "capsule": "Capsule House",
+      "apple": "Apple Cabin",
+      "natural": "Natural House",
+      "dome": "Dome House",
+      "double": "Model Double"
+    },
+    "models": {
+      "model1": {
+        "title": "Volferda Capsule House Model E6",
+        "dimensions": "8.5m x 3.2m x 3.2m",
+        "area": "27.2 m",
+        "beds": "1 or 2",
+        "bath": "1"
+      },
+      "model2": {
+        "title": "Volferda Capsule House Model E6",
+        "dimensions": "8.5m x 3.2m x 3.2m",
+        "area": "27.2 m",
+        "beds": "1 or 2",
+        "bath": "1"
+      },
+      "model3": {
+        "title": "Volferda Capsule House Model E6",
+        "dimensions": "8.5m x 3.2m x 3.2m",
+        "area": "27.2 m",
+        "beds": "1 or 2",
+        "bath": "1"
+      }
+    },
+    "labels": {
+      "area": "Area",
+      "beds": "Beds",
+      "bath": "Bath"
+    },
+    "learnMore": "Learn more",
+    "catalogBtn": "Catalog page"
+  },
+  "info": {
+    "heading": {
+      "part1": "Modular home – minimum time, ",
+      "highlight": "maximum",
+      "part2": " comfort"
+    },
+    "button": "Leave a request",
+    "cards": {
+      "homesSold": {
+        "title": "Homes sold",
+        "value": "10,000+",
+        "desc": "Thousands of families have chosen the comfort and quality of our solutions."
+      },
+      "turnkey": {
+        "title": "Orders are turnkey",
+        "value": "90%",
+        "desc": "We handle everything from design to a fully finished home."
+      },
+      "installments": {
+        "title": "Overpayment on installments",
+        "value": "0%",
+        "desc": "Flexible financing options for easy homeownership."
+      },
+      "experience": {
+        "title": "Years of experience",
+        "value": "10+",
+        "desc": "We build modular homes that stand the test of time and customer trust."
+      },
+      "moveIn": {
+        "title": "Days to move in",
+        "value": "30-60",
+        "desc": "Minimal construction time for fast and hassle-free relocation."
+      },
+      "eco": {
+        "title": "Eco-friendly materials",
+        "value": "100%",
+        "desc": "We use only certified, safe, and durable materials."
+      }
+    }
+  },
+  "choice": {
+    "title": {
+      "part1": "Ready-made ",
+      "highlight": "modular",
+      "part2": " house projects"
+    },
+    "description": "Explore a selection of proven solutions for comfortable living. Our catalog features modern modular homes designed to suit different needs and lifestyles. Choose your home — we'll take care of the rest.",
+    "featured": {
+      "title": "Volferda Capsule House Model E6",
+      "dimensions": "8.5m x 3.2m x 3.2m",
+      "area": "27.2 m",
+      "beds": "1 or 2",
+      "bath": "1"
+    },
+    "labels": {
+      "lxwxh": "LxWxH:",
+      "area": "Area:",
+      "beds": "Beds:",
+      "bath": "Bath:"
+    },
+    "button": "Leave a request"
+  },
+  "display": {
+    "title": {
+      "part1": "Our modular homes are your new ",
+      "highlight": "comfort"
+
+    },
+    "description": "Forget long construction times and endless hassle. Our modular homes are built quickly, efficiently, and with top-quality materials, ensuring durability and modern design. Enjoy a cozy, stylish space that adapts to your needs while saving you time and effort. Move in faster and live better with a home designed for your comfort."
+  },
+  "imageSection": {
+    "title": {
+      "part1": "Live in Harmony with ",
+      "highlight": "Nature"
+    },
+    "description": "Our eco-homes combine modern technology with care for the environment. They are energy-efficient, comfortable, and built from sustainable materials. You'll reduce your carbon footprint without compromising on comfort. Invest in the future — choose a home that works for you and the planet.",
+    "button": "Leave a request"
+  },
+  "showcase": {
+    "title": {
+      "part1": "Our ",
+      "highlight": "new",
+      "part2": " home – their real experience"
+    },
+    "button": "Join our community",
+    "alt": "Customer testimonial"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "q": "How long does it take to build a modular home?",
+        "a": "The construction time for a modular home is typically 30-60 days, depending on the size and complexity of the project."
+      },
+      {
+        "q": "What is the warranty on the house?",
+        "a": "We offer a comprehensive 10-year warranty on the structure and 2 years on all installed systems."
+      },
+      {
+        "q": "What materials are used for construction?",
+        "a": "We use only high-quality, certified, and environmentally friendly materials that meet the highest quality standards."
+      },
+      {
+        "q": "Does a modular home require a special foundation?",
+        "a": "Yes, modular homes require a specially adapted foundation that we plan and create after a thorough site analysis."
+      },
+      {
+        "q": "Can the house layout be customized?",
+        "a": "Yes, our modular homes offer flexible floor plan options that can be adapted to your individual needs."
+      },
+      {
+        "q": "Can the house be relocated after installation?",
+        "a": "Yes, our modular homes are designed to be moved to a new location if needed."
+      },
+      {
+        "q": "What payment options are available?",
+        "a": "We offer various payment options, including installment payments without surcharge and customized financing solutions."
+      },
+      {
+        "q": "What utilities can be connected to the house?",
+        "a": "Our houses are designed for all modern utilities: electricity, water, sewage, internet, and smart home systems."
+      },
+      {
+        "q": "Can a modular home be installed anywhere?",
+        "a": "In principle yes, but local building regulations and site conditions must be considered. We conduct a site analysis beforehand."
+      },
+      {
+        "q": "Do you provide installation and connection services?",
+        "a": "Yes, we offer a complete service from installation to connection of all utilities."
+      }
+    ],
+    "q1": "How long does it take to build a modular home?",
+    "a1": "The construction time for a modular home is typically 30-60 days, depending on the size and complexity of the project.",
+    "q2": "What is the warranty on the house?",
+    "a2": "We offer a comprehensive 10-year warranty on the structure and 2 years on all installed systems.",
+    "q3": "What materials are used for construction?",
+    "a3": "We use only high-quality, certified, and environmentally friendly materials that meet the highest quality standards.",
+    "q4": "Does a modular home require a special foundation?",
+    "a4": "Yes, modular homes require a specially adapted foundation that we plan and create after a thorough site analysis.",
+    "q5": "Can the house layout be customized?",
+    "a5": "Yes, our modular homes offer flexible floor plan options that can be adapted to your individual needs.",
+    "q6": "Can the house be relocated after installation?",
+    "a6": "Yes, our modular homes are designed to be moved to a new location if needed.",
+    "q7": "What payment options are available?",
+    "a7": "We offer various payment options, including installment payments without surcharge and customized financing solutions.",
+    "q8": "What utilities can be connected to the house?",
+    "a8": "Our houses are designed for all modern utilities: electricity, water, sewage, internet, and smart home systems.",
+    "q9": "Can a modular home be installed anywhere?",
+    "a9": "In principle yes, but local building regulations and site conditions must be considered. We conduct a site analysis beforehand.",
+    "q10": "Do you provide installation and connection services?",
+    "a10": "Yes, we offer a complete service from installation to connection of all utilities."
+  },
+  "cta": {
+    "title": "Your Own Home in Just a Few Weeks – Easy & Affordable!",
+    "description": "Choose your perfect home today! Leave a request and get a free consultation!",
+    "namePlaceholder": "Name",
+    "phonePlaceholder": "Phone number",
+    "messagePlaceholder": "Text Message (optional)",
+    "button": "Leave a request",
+    "sending": "Sending...",
+    "successMessage": "Request sent successfully!"
+  },
+  "footer": {
+    "descriptionShort": "Innovative modular houses for sustainable and comfortable living.",
+    "descriptionFull": "We are your partner for modern, sustainable housing solutions. Our modular homes combine innovative technology with environmentally conscious design for a future-oriented living experience.",
+    "createdBy": "Created by Ocean Script",
+    "phone": "Phone number",
+    "email": "Email",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "services": "Services",
+      "privacy": "Privacy Policy",
+      "contacts": "Contacts",
+      "catalog": "Catalog",
+      "career": "Career"
+    }
+  },
+  "catalogPage": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Catalog"
+    },
+    "title": "Catalog",
+    "description": "Choose from our collection of modern modular homes, ready for quick implementation.",
+    "categories": {
+      "capsule": "Capsule House",
+      "apple": "Apple Cabin",
+      "natural": "Natural House",
+      "dome": "Dome House",
+      "double": "Model Double",
+      "eco": "Eco House"
+    },
+    "bestSellers": {
+      "title": "Best sellers"
+    },
+    "button": "View Models"
+  },
+  "projectCases": {
+    "title": "Project cases",
+    "readMore": "Read more",
+    "requestButton": "Leave a request",
+    "modalDescription": "Lorem ipsum dolor sit amet consectetur. Lectus at nibh dolor vestibulum ultrices. Vel dis morbi lectus pharetra blandit morbi eget. Justo magna diam ultrices iaculis sed vitae nulla et.",
+    "item1": {
+      "title": "Minimalist modular home in the forest",
+      "description": "A compact, energy-efficient modular home designed for off-grid living, surrounded by nature."
+    },
+    "item2": {
+      "title": "Luxury modular villa with rooftop terrace",
+      "description": "Spacious design featuring an open floor plan, high-end finishes, and a stunning rooftop view."
+    },
+    "item3": {
+      "title": "Mobile tiny home on wheels",
+      "description": "Perfect for those who want to live simply and travel freely — mobility meets style."
+    }
+  },
+  "contacts": {
+    "title": "Contacts",
+    "description": "Get in touch with us for a consultation or to order your modular home. We're always here to help!",
+    "address": "Address:",
+    "businessHours": "Business Hours:",
+    "phone": "Phone:",
+    "fax": "Fax:",
+    "email": "Email:",
+    "about1": "Our company's roots began in 1993. At that time, in the rapidly developing construction market, the newly established company started its activities in heating technology, plumbing, water supply, and sewage systems. It was one of the first in Lithuania to introduce modern heating equipment from Junkers, Viessman, and Buderus. During its development, the company built and renovated houses, installed internal and external sewage systems, and eventually began providing interior finishing services. Currently, since 2016, the revived company continues its operations in Hamburg, Germany.\nWe are deeply involved in the application of modern, advanced, and ecological materials and technologies in construction. As subcontractors, we participate in the construction of fast-built block and wooden houses. For interior finishing, as well as for kitchen and bathroom equipment, we use modern and natural materials made of stone, quartz, and ceramics.",
+    "about2": "By choosing us, you are not just getting a house—you are getting a high-quality, modern, and cozy living space. We believe that the future belongs to modular homes, and we are doing everything to make that future a reality today!",
+    "produktionsLager": "Production warehouse:"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contacts": "Contacts",
+    "products": "Products",
+    "contactUs": "Contact Us",
+    "leaveRequest": "Leave a request",
+    "catalog": "Catalog",
+    "career": "Career",
+    "languages": {
+      "english": "English",
+      "deutsch": "Deutsch"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Building the Future Together: High-Quality Modular Homes for Comfortable Living",
+    "paragraphs": {
+      "p1": "Our company's roots began in 1993. At that time, in the rapidly developing construction market, the newly established company started its activities in heating technology, plumbing, water supply, and sewage systems. It was one of the first in Lithuania to introduce modern heating equipment from Junkers, Viessman, and Buderus. During its development, the company built and renovated houses, installed internal and external sewage systems, and eventually began providing interior finishing services. Currently, since 2016, the revived company continues its operations in Hamburg, Germany.",
+      "p2": "We delve into the application of modern, advanced and ecological materials and technologies in the construction industry. As subcontractors, we participate in the construction of prefabricated block and wooden houses. For interior decoration, as well as for kitchen and bathroom equipment, we use modern and natural materials from stone, quartz and ceramics.",
+      "p3": ""
+    },
+    "paragraphsBottom": {
+      "p1": "We follow a turnkey approach, offering a full range of services—from developing a personalized project to delivering and installing the home. Every project is tailored to meet the needs of the customer, ensuring that each home exceeds expectations.",
+      "p2": "As we continue to grow, we remain committed to setting new benchmarks in modular home construction. Our goal is not just to build houses but to create modern, adaptable, and future-ready living spaces that evolve with our customers' lifestyles. By integrating cutting-edge technology and advanced building techniques, we are redefining the way people think about homeownership.",
+      "p3": "Join us in shaping the future of housing. With our expertise, passion, and customer-first approach, we are confident that we can help you find a home that perfectly suits your needs. The future is modular, and we are here to build it together!"
+    },
+    "topSection": {
+      "title": {
+        "part1": "For over",
+        "highlight": "10 years"
+      }
+    },
+    "bottomSection": {
+      "title": {
+        "part1": "Our",
+        "highlight": "top priority",
+        "part2": "is the quality and comfort of our clients."
+      }
+    }
+  },
+  "common": {
+    "sectionImage": "Section image"
+  },
+  "career": {
+    "breadcrumb": {
+      "home": "Home",
+      "current": "Career"
+    },
+    "title": "Join Our Team",
+    "description": "We're always looking for talented individuals to join our growing team. At our company, you'll have the opportunity to work on exciting projects and grow your career.",
+    "benefits": {
+      "title": "Why Join Us?",
+      "item1": "Competitive salary and benefits package",
+      "item2": "Flexible working hours and remote work options",
+      "item3": "Professional development and training opportunities",
+      "item4": "Collaborative and supportive work environment"
+    },
+    "cta": "Apply Now",
+    "imageAlt": "Our team working together",
+    "form": {
+      "name": "Name",
+      "surname": "Surname",
+      "email": "Email",
+      "phone": "Phone",
+      "country": "Country",
+      "city": "City",
+      "position": "Desired Position",
+      "experience": "Work Experience",
+      "resume": "Upload Resume",
+      "coverLetter": "Cover Letter",
+      "placeholders": {
+        "name": "Write your name",
+        "surname": "Write your surname",
+        "email": "Write your email",
+        "phone": "Write your phone",
+        "country": "Write your country",
+        "city": "Write your city",
+        "position": "Write your desired position",
+        "experience": "Describe your experience",
+        "coverLetter": "Write your cover letter",
+        "noFile": "No file chosen (Max 1mb)"
+      },
+      "uploadFile": "Upload File",
+      "sendApplication": "Send Application",
+      "sending": "Sending...",
+      "successMessage": "Your application has been submitted successfully!"
+    }
+  },
+  "errors": {
+    "phoneRequired": "Phone number is required",
+    "fileTypeInvalid": "Only PDF, DOCX, or DOC files are allowed",
+    "fileSizeExceeded": "File size exceeds the limit (10MB)"
+  }
+}

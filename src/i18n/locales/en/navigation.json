@@ -1,0 +1,16 @@
+{
+  "home": "Home",
+  "about": "About",
+  "contacts": "Contacts",
+  "products": "Products",
+  "contactUs": "Contact Us",
+  "leaveRequest": "Leave a request",
+  "catalog": "Catalog",
+  "career": "Career",
+  "languages": {
+    "english": "English",
+    "deutsch": "Deutsch",
+    "lithuanian": "Lithuanian",
+    "russian": "Russian"
+  }
+} 

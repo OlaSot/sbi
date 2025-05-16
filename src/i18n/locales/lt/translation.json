@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "title": "STATOM",
+    "description": "Moduliniai namai patogiam gyvenimui"
+  },
+  "hero": {
+    "imageAlt": "Modernus eko-namas miške",
+    "title": {
+      "part1": "Prestižas, komfortas ir harmonija su gamta — viskas viename",
+      "highlight": "eko-name"
+    },
+    "description": "Pasirinkite namą, atspindintį jūsų vertybes — modernų, tvarų ir sukurtą sąmoningam gyvenimo būdui, kur prabanga susitinka su atsakomybe.",
+    "cta": "Sužinoti daugiau"
+  },
+  "catalog": {
+    "heading": {
+      "part1": "Pasirinkite savo",
+      "highlight": "idealų",
+      "part2": " modulinį namą"
+    },
+    "categories": {
+      "capsule": "Kapsulės namas",
+      "apple": "Obuolio kabina",
+      "natural": "Natūralus namas",
+      "dome": "Kupolo namas",
+      "double": "Modelis Double"
+    },
+    "models": {
+      "model1": {
+        "title": "Volferda Kapsulės namas Modelis E6",
+        "dimensions": "8.5m x 3.2m x 3.2m",
+        "area": "27.2 m²",
+        "beds": "1 arba 2",
+        "bath": "1"
+      },
+      "model2": {
+        "title": "Volferda Kapsulės namas Modelis E6",
+        "dimensions": "8.5m x 3.2m x 3.2m",
+        "area": "27.2 m²",
+        "beds": "1 arba 2",
+        "bath": "1"
+      },
+      "model3": {
+        "title": "Volferda Kapsulės namas Modelis E6",
+        "dimensions": "8.5m x 3.2m x 3.2m",
+        "area": "27.2 m²",
+        "beds": "1 arba 2",
+        "bath": "1"
+      }
+    },
+    "labels": {
+      "area": "Plotas",
+      "beds": "Miegamieji",
+      "bath": "Vonios kambarys"
+    },
+    "learnMore": "Sužinoti daugiau",
+    "catalogBtn": "Katalogo puslapis"
+  },
+  "info": {
+    "heading": {
+      "part1": "Modulinis namas – minimalus laikas, ",
+      "highlight": "maksimalus",
+      "part2": " komfortas"
+    },
+    "button": "Palikti užklausą",
+    "cards": {
+      "homesSold": {
+        "title": "Parduoti namai",
+        "value": "10,000+",
+        "desc": "Tūkstančiai šeimų pasirinko mūsų sprendimų komfortą ir kokybę."
+      },
+      "turnkey": {
+        "title": "Užsakymai yra raktai į rankas",
+        "value": "90%",
+        "desc": "Mes valdome viską nuo dizaino iki visiškai užbaigto namo."
+      },
+      "installments": {
+        "title": "Permoka išsimokėtinai",
+        "value": "0%",
+        "desc": "Lanksčios finansavimo galimybės paprastam namo įsigijimui."
+      },
+      "experience": {
+        "title": "Patirties metai",
+        "value": "10+",
+        "desc": "Mes statome modulinius namus, kurie išlaiko klientų pasitikėjimą."
+      },
+      "moveIn": {
+        "title": "Dienos iki persikėlimo",
+        "value": "30-60",
+        "desc": "Minimalus statybos laikas greitam ir sklandžiam persikėlimui."
+      },
+      "eco": {
+        "title": "Aplinkai draugiškos medžiagos",
+        "value": "100%",
+        "desc": "Mes naudojame tik sertifikuotas, saugias ir patvarias medžiagas."
+      }
+    }
+  },
+  "choice": {
+    "title": {
+      "part1": "Paruošti ",
+      "highlight": "modulinių",
+      "part2": " namų projektai"
+    },
+    "description": "Ištyrinėkite patikrintų sprendimų asortimentą patogiam gyvenimui. Mūsų kataloge yra modernūs moduliniai namai, sukurti įvairiems poreikiams ir gyvenimo būdams. Pasirinkite savo namą — mes pasirūpinsime viskuo kitu.",
+    "featured": {
+      "title": "Volferda Kapsulės namas Modelis E6",
+      "dimensions": "8.5m x 3.2m x 3.2m",
+      "area": "27.2 m²",
+      "beds": "1 arba 2",
+      "bath": "1"
+    },
+    "labels": {
+      "lxwxh": "IxPxA:",
+      "area": "Plotas:",
+      "beds": "Miegamieji:",
+      "bath": "Vonios kambarys:"
+    },
+    "button": "Palikti užklausą"
+  },
+  "display": {
+    "title": {
+      "part1": "Mūsų moduliniai namai yra jūsų naujas ",
+      "highlight": "komfortas"
+    },
+    "description": "Pamirškite ilgą statybos laiką ir begalines problemas. Mūsų moduliniai namai statomi greitai, efektyviai ir su aukščiausios kokybės medžiagomis, užtikrinant patvarumą ir modernų dizainą. Mėgaukitės jaukia, stilinga erdve, pritaikyta jūsų poreikiams, tuo pačiu taupydami laiką ir pastangas. Persikraukite greičiau ir gyvenkite geriau name, sukurtame jūsų komfortui."
+  },
+  "imageSection": {
+    "title": {
+      "part1": "Gyvenkite harmonijoje su ",
+      "highlight": "gamta"
+    },
+    "description": "Mūsų eko-namai sujungia šiuolaikines technologijas su rūpinimusi aplinka. Jie yra energiškai efektyvūs, patogūs ir pastatyti iš tvarių medžiagų. Jūs sumažinsite savo anglies pėdsaką, neaukodami komforto. Investuokite į ateitį — pasirinkite namą, kuris veikia jūsų ir planetos labui.",
+    "button": "Palikti užklausą"
+  },
+  "showcase": {
+    "title": {
+      "part1": "Mūsų ",
+      "highlight": "naujas",
+      "part2": " namas – jų reali patirtis"
+    },
+    "button": "Prisijunkite prie mūsų bendruomenės",
+    "alt": "Kliento atsiliepimas"
+  },
+  "faq": {
+    "title": "Dažniausiai užduodami klausimai",
+    "items": [
+      {
+        "q": "Kiek laiko reikia pastatyti modulinį namą?",
+        "a": "Modulinio namo statybos laikas paprastai yra 30-60 dienų, priklausomai nuo projekto dydžio ir sudėtingumo."
+      },
+      {
+        "q": "Kokia garantija suteikiama namui?",
+        "a": "Mes siūlome išsamią 10 metų garantiją konstrukcijai ir 2 metus visoms įrengtoms sistemoms."
+      },
+      {
+        "q": "Kokios medžiagos naudojamos statybai?",
+        "a": "Mes naudojame tik aukštos kokybės, sertifikuotas ir aplinkai draugiškas medžiagas, atitinkančias aukščiausius kokybės standartus."
+      },
+      {
+        "q": "Ar moduliniam namui reikalingas specialus pagrindas?",
+        "a": "Taip, moduliniams namams reikalingas specialiai pritaikytas pagrindas, kurį mes planuojame ir kuriame po kruopščios vietos analizės."
+      },
+      {
+        "q": "Ar namo išdėstymą galima pritaikyti?",
+        "a": "Taip, mūsų moduliniai namai siūlo lanksčias grindų plano parinktis, kurias galima pritaikyti pagal jūsų individualius poreikius."
+      },
+      {
+        "q": "Ar namą galima perkelti po įrengimo?",
+        "a": "Taip, mūsų moduliniai namai sukonstruoti taip, kad prireikus juos būtų galima perkelti į naują vietą."
+      },
+      {
+        "q": "Kokios mokėjimo galimybės yra prieinamos?",
+        "a": "Mes siūlome įvairias mokėjimo galimybes, įskaitant išsimokėjimą be antkainių ir pritaikytus finansavimo sprendimus."
+      },
+      {
+        "q": "Kokios komunalinės paslaugos gali būti prijungtos prie namo?",
+        "a": "Mūsų namai skirti visoms šiuolaikinėms komunalinėms paslaugoms: elektra, vanduo, nuotekos, internetas ir išmanaus namo sistemos."
+      },
+      {
+        "q": "Ar modulinį namą galima įrengti bet kur?",
+        "a": "Iš esmės taip, bet reikia atsižvelgti į vietinius statybos reglamentus ir vietos sąlygas. Mes iš anksto atliekame vietos analizę."
+      },
+      {
+        "q": "Ar jūs teikiate montavimo ir prijungimo paslaugas?",
+        "a": "Taip, mes siūlome pilną paslaugų spektrą nuo montavimo iki visų komunalinių paslaugų prijungimo."
+      }
+    ],
+    "q1": "Kiek laiko reikia pastatyti modulinį namą?",
+    "a1": "Modulinio namo statybos laikas paprastai yra 30-60 dienų, priklausomai nuo projekto dydžio ir sudėtingumo.",
+    "q2": "Kokia garantija suteikiama namui?",
+    "a2": "Mes siūlome išsamią 10 metų garantiją konstrukcijai ir 2 metus visoms įrengtoms sistemoms.",
+    "q3": "Kokios medžiagos naudojamos statybai?",
+    "a3": "Mes naudojame tik aukštos kokybės, sertifikuotas ir aplinkai draugiškas medžiagas, atitinkančias aukščiausius kokybės standartus.",
+    "q4": "Ar moduliniam namui reikalingas specialus pagrindas?",
+    "a4": "Taip, moduliniams namams reikalingas specialiai pritaikytas pagrindas, kurį mes planuojame ir kuriame po kruopščios vietos analizės.",
+    "q5": "Ar namo išdėstymą galima pritaikyti?",
+    "a5": "Taip, mūsų moduliniai namai siūlo lanksčias grindų plano parinktis, kurias galima pritaikyti pagal jūsų individualius poreikius.",
+    "q6": "Ar namą galima perkelti po įrengimo?",
+    "a6": "Taip, mūsų moduliniai namai sukonstruoti taip, kad prireikus juos būtų galima perkelti į naują vietą.",
+    "q7": "Kokios mokėjimo galimybės yra prieinamos?",
+    "a7": "Mes siūlome įvairias mokėjimo galimybes, įskaitant išsimokėjimą be antkainių ir pritaikytus finansavimo sprendimus.",
+    "q8": "Kokios komunalinės paslaugos gali būti prijungtos prie namo?",
+    "a8": "Mūsų namai skirti visoms šiuolaikinėms komunalinėms paslaugoms: elektra, vanduo, nuotekos, internetas ir išmanaus namo sistemos.",
+    "q9": "Ar modulinį namą galima įrengti bet kur?",
+    "a9": "Iš esmės taip, bet reikia atsižvelgti į vietinius statybos reglamentus ir vietos sąlygas. Mes iš anksto atliekame vietos analizę.",
+    "q10": "Ar jūs teikiate montavimo ir prijungimo paslaugas?",
+    "a10": "Taip, mes siūlome pilną paslaugų spektrą nuo montavimo iki visų komunalinių paslaugų prijungimo."
+  },
+  "cta": {
+    "title": "Jūsų nuosavas namas tik per kelias savaites – lengvai ir prieinama kaina!",
+    "description": "Pasirinkite savo idealų namą šiandien! Palikite užklausą ir gaukite nemokamą konsultaciją!",
+    "namePlaceholder": "Vardas",
+    "phonePlaceholder": "Telefono numeris",
+    "messagePlaceholder": "Teksto žinutė (neprivaloma)",
+    "button": "Palikti užklausą",
+    "sending": "Siunčiama...",
+    "successMessage": "Užklausa sėkmingai išsiųsta!"
+  },
+  "footer": {
+    "descriptionShort": "Lorem ipsum dolor sit amet consectetur. Hendrerit amet urna diam at pellentesque in convallis pellentesque.",
+    "descriptionFull": "Lorem ipsum dolor sit amet consectetur. Hendrerit amet urna diam at pellentesque in convallis pellentesque proin. Eros turpis eget tellus sed gravida. Nullam nibh diam in hac consectetur. Aliquet vel purus nisl velit purus id rhoncus vitae augue. Id fames lacinia at id risus tempor eleifend.",
+    "createdBy": "Sukūrė Ocean Script",
+    "phone": "Telefono numeris",
+    "email": "El. paštas",
+    "links": {
+      "home": "Pradžia",
+      "about": "Apie mus",
+      "services": "Paslaugos",
+      "pricing": "Kainos",
+      "blog": "Blogas",
+      "faq": "DUK",
+      "privacy": "Privatumo politika",
+      "gallery": "Galerija"
+    }
+  },
+  "catalogPage": {
+    "breadcrumb": {
+      "home": "Pradžia",
+      "current": "Katalogas"
+    },
+    "title": "Katalogas",
+    "description": "Rinkitės iš mūsų modernių modulinių namų kolekcijos, paruoštų greitam įrengimui.",
+    "categories": {
+      "capsule": "Kapsulės namas",
+      "apple": "Obuolio kabina",
+      "natural": "Natūralus namas",
+      "dome": "Kupolo namas",
+      "double": "Modelis Double",
+      "eco": "Eko namas"
+    },
+    "bestSellers": {
+      "title": "Geriausi pardavimai"
+    },
+    "button": "Žiūrėti modelius"
+  },
+  "projectCases": {
+    "title": "Projektų pavyzdžiai",
+    "readMore": "Skaityti daugiau",
+    "requestButton": "Palikti užklausą",
+    "modalDescription": "Lorem ipsum dolor sit amet consectetur. Lectus at nibh dolor vestibulum ultrices. Vel dis morbi lectus pharetra blandit morbi eget. Justo magna diam ultrices iaculis sed vitae nulla et.",
+    "item1": {
+      "title": "Minimalistinis modulinis namas miške",
+      "description": "Kompaktiškas, energiškai efektyvus modulinis namas, skirtas gyvenimui gamtoje, apsuptas natūralios aplinkos."
+    },
+    "item2": {
+      "title": "Prabangus modulinis namas su stogo terasa",
+      "description": "Erdvi konstrukcija su atviru planu, aukštos klasės apdaila ir nuostabiu vaizdu nuo stogo."
+    },
+    "item3": {
+      "title": "Mobilus mažas namelis ant ratų",
+      "description": "Idealus tiems, kurie nori gyventi paprastai ir laisvai keliauti — mobilumas susitinka su stiliumi."
+    }
+  },
+  "contacts": {
+    "title": "Kontaktai",
+    "description": "Susisiekite su mumis, kad gautumėte konsultaciją arba užsakytumėte modulinį namą. Mes visada pasiruošę padėti!",
+    "address": "Adresas:",
+    "businessHours": "Darbo laikas:",
+    "phone": "Telefonas:",
+    "fax": "Faksas:",
+    "email": "El. paštas:",
+    "about1": "Mūsų įmonės ištakos prasidėjo 1993 metais. Tuo metu sparčiai besivystančioje statybos rinkoje naujai įkurta įmonė pradėjo savo veiklą šildymo technikos, santechnikos, vandentiekio ir kanalizacijos srityje. Ji buvo viena pirmųjų Lietuvoje, pristatiusi modernią šildymo įrangą Junkers, Viessman, Buderus. Savo vystymosi eigoje įmonė statė ir remontavo namus, įrengė vidinę ir išorinę kanalizaciją, o vėliau pradėjo teikti vidaus apdailos paslaugas. Šiuo metu, nuo 2016 metų, atgimusi įmonė tęsia savo veiklą Hamburge, Vokietijoje.\nMes gilinamės į modernių, pažangių ir ekologinių medžiagų bei technologijų taikymą statybos srityje. Kaip subrangovai dalyvaujame greitai statomų blokinių ir medinių namų statyboje. Vidaus apdailai, taip pat virtuvės ir vonios kambario įrangai naudojame modernias ir natūralias medžiagas iš akmens, kvarcinio ir keramikos.",
+    "about2": "Pasirinkdami mus, jūs gaunate ne tik namą — jūs gaunate aukštos kokybės, modernią ir jaukią gyvenamąją erdvę. Mes tikime, kad ateitis priklauso moduliniams namams, ir mes darome viską, kad ši ateitis taptų realybe jau šiandien!",
+    "produktionsLager": "Gamybos sandėlis:"
+  },
+  "navigation": {
+    "home": "Pradžia",
+    "about": "Apie mus",
+    "contacts": "Kontaktai",
+    "products": "Produktai",
+    "contactUs": "Susisiekite su mumis",
+    "leaveRequest": "Palikti užklausą",
+    "catalog": "Katalogas",
+    "career": "Karjera",
+    "languages": {
+      "english": "Anglų",
+      "deutsch": "Vokiečių",
+      "russian": "Rusų",
+      "lithuanian": "Lietuvių"
+    }
+  },
+  "about": {
+    "title": "Apie mus",
+    "subtitle": "Kuriame ateitį kartu: aukštos kokybės moduliniai namai patogiam gyvenimui",
+    "paragraphs": {
+      "p1": "Mūsų įmonės šaknys prasidėjo 1993 m. Tuo metu sparčiai besivystančioje statybų rinkoje naujai įkurta įmonė pradėjo veiklą šildymo technikos, santechnikos, vandentiekio ir kanalizacijos srityje. Ji viena pirmųjų Lietuvoje pristatė pažangią Junkers, Viessman, Buderus šildymo techniką. Savo raidos eigoje įmonė statė ir remontavo namus, įrenginėjo vidaus ir lauko kanalizacijos sistemas, laikui bėgant pradėjo teikti ir vidaus apdailos paslaugas. Šiuo metu naujai atgimusi įmonė jau nuo 2016 metų tęsia savo veiklą Vokietijoje, Hamburge.",
+      "p2": "Mes gilinamės į šiuolaikiškų, pažangių ir ekologiškų medžiagų ir technologijų taikymą statybos srityje. Kaip subrangovai mes dalyvaujame surenkamų blokinių ir medinių namų statyboje. Vidaus apdailai , o taip pat virtuvės ir vonios įrangai mes naudojame šiuolaikiškas ir natūralias medžiagas iš akmens, kvarco ir keramikos.",
+      "p3": ""
+    },
+    "paragraphsBottom": {
+      "p1": "Mes laikomės principo \"raktai į rankas\", siūlydami pilną paslaugų spektrą — nuo individualaus projekto kūrimo iki namo pristatymo ir montavimo. Kiekvienas projektas yra pritaikytas kliento poreikiams, užtikrinant, kad kiekvienas namas viršytų lūkesčius.",
+      "p2": "Toliau augdami, mes išliekame įsipareigoję nustatyti naujus standartus modulinių namų statyboje. Mūsų tikslas yra ne tik statyti namus, bet kurti modernius, pritaikomus ir ateičiai paruoštus būstus, kurie vystosi kartu su mūsų klientų gyvenimo būdu. Integruodami pažangiausias technologijas ir progresyvius statybos metodus, mes iš naujo apibrėžiame, kaip žmonės galvoja apie nuosavus namus.",
+      "p3": "Prisijunkite prie mūsų kuriant būsto ateitį. Su mūsų patirtimi, aistra ir į klientą orientuotu požiūriu, mes esame įsitikinę, kad galime padėti jums rasti namą, kuris visiškai atitiktų jūsų poreikius. Ateitis yra modulinė, ir mes esame čia, kad ją kurtume kartu!"
+    },
+    "topSection": {
+      "title": {
+        "part1": "Daugiau nei",
+        "highlight": "10 metų"
+      }
+    },
+    "bottomSection": {
+      "title": {
+        "part1": "Mūsų",
+        "highlight": "pagrindinis prioritetas",
+        "part2": "yra mūsų klientų kokybė ir komfortas."
+      }
+    }
+  },
+  "common": {
+    "sectionImage": "Sekcijos vaizdas"
+  },
+  "career": {
+    "breadcrumb": {
+      "home": "Pradžia",
+      "current": "Karjera"
+    },
+    "title": "Karjera",
+    "description": "Prisijunkite prie komandos, kuriančios būsto ateitį — pasidalinkite savo duomenimis ir tapkite mūsų misijos dalimi!",
+    "form": {
+      "name": "Vardas",
+      "surname": "Pavardė",
+      "email": "El. paštas",
+      "phone": "Telefonas",
+      "country": "Šalis",
+      "city": "Miestas",
+      "position": "Pageidaujama pareigybė",
+      "experience": "Darbo patirtis",
+      "resume": "Įkelti CV",
+      "coverLetter": "Motyvacinis laiškas",
+      "placeholders": {
+        "name": "Įveskite savo vardą",
+        "surname": "Įveskite savo pavardę",
+        "email": "Įveskite savo el. paštą",
+        "phone": "Įveskite savo telefoną",
+        "country": "Įveskite savo šalį",
+        "city": "Įveskite savo miestą",
+        "position": "Įveskite pageidaujamą pareigybę",
+        "experience": "Aprašykite savo patirtį",
+        "coverLetter": "Parašykite savo motyvacinį laišką",
+        "noFile": "Nepasirinktas failas (Max 1mb)"
+      },
+      "uploadFile": "Įkelti failą",
+      "sendApplication": "Siųsti paraišką",
+      "sending": "Siunčiama...",
+      "successMessage": "Jūsų paraiška sėkmingai pateikta!"
+    }
+  },
+  "errors": {
+    "phoneRequired": "Telefono numeris yra privalomas",
+    "fileTypeInvalid": "Leidžiami tik PDF, DOCX arba DOC failai",
+    "fileSizeExceeded": "Failo dydis viršija apribojimą (10MB)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "home": "Pradžia",
+  "about": "Apie mus",
+  "contacts": "Kontaktai",
+  "products": "Produktai",
+  "contactUs": "Susisiekite su mumis",
+  "leaveRequest": "Palikti užklausą",
+  "catalog": "Katalogas",
+  "career": "Karjera",
+  "languages": {
+    "english": "Anglų",
+    "deutsch": "Vokiečių",
+    "russian": "Rusų",
+    "lithuanian": "Lietuvių"
+  }
+} 

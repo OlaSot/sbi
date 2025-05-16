@@ -1,0 +1,16 @@
+{
+  "home": "Главная",
+  "about": "О нас",
+  "contacts": "Контакты",
+  "products": "Продукты",
+  "contactUs": "Связаться с нами",
+  "leaveRequest": "Оставить заявку",
+  "catalog": "Каталог",
+  "career": "Карьера",
+  "languages": {
+    "english": "Английский",
+    "deutsch": "Немецкий",
+    "russian": "Русский",
+    "lithuanian": "Литовский"
+  }
+} 
