@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 export default function SolutionsSection() {
   return (
-    <section className="w-full bg-white py-20 px-4">
+    <section className="w-full  bg-grey  py-20 px-4">
       <div className="max-w-[1280px] mx-auto mb-12">
         <div className="flex flex-col md:flex-row md:justify-between gap-6">
           <h2 className="text-3xl md:text-4xl font-bold text-black max-w-[600px]">
