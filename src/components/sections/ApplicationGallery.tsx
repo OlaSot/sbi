@@ -22,7 +22,7 @@ const videoRefs = [
   };
 
   return (
-    <section className="w-full bg-gray-200  py-20 px-4">
+    <section className="w-full bg-grey  py-20 px-4">
       <div className="max-w-[1280px] mx-auto text-center mb-12">
         <h2 className=" text-4xl md:text-5xl font-bold  text-black">
           Application Gallery

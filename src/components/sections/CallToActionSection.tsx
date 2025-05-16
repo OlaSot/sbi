@@ -2,7 +2,7 @@
 
 export function CallToActionSection() {
   return (
-    <section className="w-full bg-white py-20 px-4">
+    <section className="w-full bg-grey  py-20 px-4">
       <div className="max-w-[1280px] mx-auto text-center mb-16">
         <h2 className="text-3xl md:text-5xl font-bold text-black mb-4">
           Don&apos;t Miss Out <br />

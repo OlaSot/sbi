@@ -9,7 +9,7 @@ import {CallToActionSection} from "@/components/sections/CallToActionSection";
 // const SectionLoading = () => <div className="min-h-[50px]" />;
 
 // Update the Home component to accept params
-export default async function Home({ params }: { params: { lang: string } }) {
+export default async function Home() {
   return (
     <div>
       <HeroSection  />
