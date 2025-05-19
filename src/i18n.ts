@@ -41,12 +41,11 @@ const getInitialLanguage = () => {
   return 'en';
 };
 
-// Initialize i18n
 i18n
   .use(initReactI18next)
   .init({
     resources,
-    lng: getInitialLanguage(), // Use the language from URL
+    lng: getInitialLanguage(), 
     fallbackLng: 'en',
     supportedLngs: ['en', 'de', 'ru', 'lt'],
     react: { 
@@ -64,7 +63,7 @@ i18n
     ns: ['translation', 'navigation'],
     defaultNS: 'translation',
     initImmediate: false,
-    // Disable language detection on the client side
+
     detection: {
       order: ['path'],
       lookupFromPathIndex: 0,

@@ -31,7 +31,7 @@ export const getDictionary = async (locale: string) => {
     return await combineDictionaries(locale);
   } catch (error) {
     console.error(`Error loading dictionary for ${locale}:`, error);
-    return await combineDictionaries("en"); // Fallback в случае ошибки
+    return await combineDictionaries("en"); 
   }
 };
 
@@ -45,7 +45,7 @@ async function combineDictionaries(locale: string) {
   console.log(`Loaded translation for ${locale}:`, translation);
 
   return {
-    ...navigation,     // navigation.json — например: { home: "Главная" }
-    ...translation     // translation.json может перекрывать navigation, если ключи совпадают
+    ...navigation,    
+    ...translation    
   };
 }

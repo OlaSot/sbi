@@ -4,11 +4,10 @@ import React, { useState } from "react";
 import { Menu, X } from "lucide-react";
 import Link from "next/link";
 import Image from "next/image";
-import ModalForm from "../ui/ModalForm";
+
 
 export default function HeaderClient() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [isModalOpen, setIsModalOpen] = useState(false);
 
   const navItems = [
     { label: "Home", href: "/en" },
@@ -53,26 +52,13 @@ export default function HeaderClient() {
           <div className="hidden md:flex items-center gap-4 lg:gap-6">
             <button
               className="bg-[#FFCE2B] text-black hover:bg-[#FFCE2B]/90 rounded-[10px] shadow-[inset_0px_-2px_6.7px_#014c3540,1px_3px_5px_#665313] text-[18px] px-10 py-[15px]"
-              onClick={() => setIsModalOpen(true)}
+           
             >
               Contact Us
             </button>
           </div>
 
-          <ModalForm
-            isOpen={isModalOpen}
-            onClose={() => setIsModalOpen(false)}
-            translated={{
-              title: "Contact Form",
-              description: "Leave your message and we'll get back to you.",
-              namePlaceholder: "Your name",
-              phonePlaceholder: "Phone number",
-              messagePlaceholder: "Message",
-              button: "Send",
-              sending: "Sending...",
-              successMessage: "Message sent successfully!",
-            }}
-          />
+
 
           {/* Spacer for layout */}
           <div className="w-6 md:hidden" />

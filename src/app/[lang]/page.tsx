@@ -16,14 +16,6 @@ export default async function Home() {
       <AutomationFeaturesSection />
       <ApplicationGallery />
       <SolutionsSection />
-      {/* <InformationSection lang={params.lang} />
-      <CatalogSection params={params}/>
-      <DisplaySection params={params}/>
-      <ChoiceSection params={params}/>
-      <ImageDecorationSection params={params} />
-      <ShowcaseSection params={params}/>
-      <ProjectCasesSection params={params} /> 
-      <FaqSection params={params}/> */}
       <CallToActionSection/> 
       <FooterSection />
     </div>
